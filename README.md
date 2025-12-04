@@ -1,2 +1,2 @@
-# belajar-github
-Mata Kuliah Cloud Computing - AIG A
+Halo! Ini repository pertama saya.
+Saya sedang belajar GitHub untuk DevOps & CI/CD
